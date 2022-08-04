@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-cout<<"Namaste"<<endl;
-cout<<"Namaste"<<endl;
+cout<<"Namaste Class"<<endl;
+cout<<"Namaste class"<<endl;
 
 return 0;
 }
