@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 cout<<"Namaste"<<endl;
-
+a +b=c;
 return 0;
 }
