@@ -4,5 +4,7 @@ using namespace std;
 int main(){
 cout<<"Namaste"<<endl;
 a +b=c;
+
+a+d=0;
 return 0;
 }
