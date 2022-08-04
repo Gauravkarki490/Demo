@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-cout<<"Namaste"<<endl;
-cout<<"Namaste"<<endl;
-cout<<"Namaste"<<endl;
+cout<<"Namaste class"<<endl;
+cout<<"Namaste class"<<endl;
+cout<<"Namaste class"<<endl;
 
 return 0;
 }
